@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PopUp.MainActivity">
+    <ContentPage.Content>
+        <StackLayout x:Name="mainContent">
+            <Button x:Name="ToastButton" 
+                Clicked="OnToastButtonClicked" 
+                Text="Show toast" 
+                HorizontalOptions="Center" 
+                VerticalOptions="Center">
+
+            </Button>
+            <Button x:Name="SnackbarButton" 
+                Clicked="OnSnackbarButtonClicked" 
+                Text="Show snackbar" 
+                HorizontalOptions="Center" 
+                VerticalOptions="Center">
+
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

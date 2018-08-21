@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopUp.Android", "PopUp\PopUp.Android\PopUp.Android.csproj", "{4FF49475-5392-403E-BBCB-8EF50CE40762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopUp", "PopUp\PopUp\PopUp.csproj", "{9BACA767-B7A0-4EAE-89A6-2579BC17EE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF49475-5392-403E-BBCB-8EF50CE40762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF49475-5392-403E-BBCB-8EF50CE40762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF49475-5392-403E-BBCB-8EF50CE40762}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4FF49475-5392-403E-BBCB-8EF50CE40762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF49475-5392-403E-BBCB-8EF50CE40762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF49475-5392-403E-BBCB-8EF50CE40762}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9BACA767-B7A0-4EAE-89A6-2579BC17EE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BACA767-B7A0-4EAE-89A6-2579BC17EE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BACA767-B7A0-4EAE-89A6-2579BC17EE3D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9BACA767-B7A0-4EAE-89A6-2579BC17EE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BACA767-B7A0-4EAE-89A6-2579BC17EE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BACA767-B7A0-4EAE-89A6-2579BC17EE3D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BCAF70-5F98-4CFB-966E-BA5758587C56}
+	EndGlobalSection
+EndGlobal
